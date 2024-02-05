@@ -21,7 +21,10 @@ To install Gender Recognition by Voice, follow these steps:
 1. Clone the repository:
 ```bash
 git clone <https://github.com/aniketburman014/Gender_Recognition_by_voice>
-
-To use Gender Recognition by Voice, follow these steps:
-python record_upload_gui.py
+```
+2. Install the required packages:
+   ```pip install -r requirements.txt```
+3. Run
+   ```python record_upload_gui.py```
+This will open up a GUI made with Tkinter where you can record your voice or upload audio and the model will predict the gender based on the voice. 
 
