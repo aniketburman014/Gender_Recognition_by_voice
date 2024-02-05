@@ -29,8 +29,15 @@ git clone <https://github.com/aniketburman014/Gender_Recognition_by_voice>
 This will open up a GUI made with Tkinter where you can record your voice or upload audio and the model will predict the gender based on the voice.
 
 
-#### GUI Images
+#### GUI 
 ![alt text](images/front.png)
+#### Upload 
+![alt text](images/upload.png)
+#### Record
+![alt text](images/record.png)
+#### Results
+![alt text](images/result1.png)
+![alt text](images/result2.png)
 
 
 
